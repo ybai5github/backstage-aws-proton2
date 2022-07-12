@@ -4,6 +4,8 @@ metadata:
   name: "awsProton"
   description: "example using aws proton"
   annotations:
+    snyk.io/org-name: ybai5github
+    snyk.io/project-ids: 90789fab-d880-4417-a77d-e75353ebc350
     github.com/project-slug: ybai5github/backstage-aws-proton2
     backstage.io/techdocs-ref: dir:.
     aws.amazon.com/aws-proton-service: arn:aws:proton:us-east-1:947751419169:service/awsProton
